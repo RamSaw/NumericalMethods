@@ -1,6 +1,5 @@
-import numpy as np
 import matplotlib.pyplot as plt
-from math import factorial
+import numpy as np
 
 
 def s_eitken(z, n):
