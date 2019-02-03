@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5027849-20a8-4284-875a-17fd4290412e" name="Default Changelist" comment="Done hw01.">
-      <change afterPath="$PROJECT_DIR$/hw01/hw01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw01/t02.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw01/t02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw01/hw01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/hw02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw01/t01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="216">
               <caret line="14" selection-start-line="14" selection-end-line="35" selection-end-column="19" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -47,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw01/t02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="522">
               <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -61,15 +62,6 @@
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/test.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -119,28 +111,13 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NumericalMethods" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NumericalMethods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NumericalMethods" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NumericalMethods" type="462c0819:PsiDirectoryNode" />
-              <item name="hw01" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/mikhail/Documents/Development/NumericalMethods/hw01/t01.py&#10;sci&#9;ACTION&#9;ActivateSciViewToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/test.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testSoftwareDesign/SoftwareDesign" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -243,9 +220,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Jupyter Notebook.NumericalMethods" />
       <item itemvalue="Python.t01" />
       <item itemvalue="Python.t02" />
-      <item itemvalue="Jupyter Notebook.NumericalMethods" />
     </list>
     <recent_temporary>
       <list>
@@ -265,6 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548229310153</updated>
       <workItem from="1548776391546" duration="1677000" />
+      <workItem from="1549014510790" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw01.">
       <created>1548241485184</created>
@@ -277,13 +255,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1677000" />
+    <option name="totallyTimeSpent" value="1707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1212" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26307365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -335,19 +312,9 @@
     <entry file="file://$PROJECT_DIR$/hw01/taskC.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw01/t02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw01/t01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="216">
           <caret line="14" selection-start-line="14" selection-end-line="35" selection-end-column="19" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -355,14 +322,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/hw1.ipynb">
+    <entry file="file://$PROJECT_DIR$/hw01/t02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/test.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/test.ipynb">
+    <entry file="file://$USER_HOME$/Downloads/hw1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
